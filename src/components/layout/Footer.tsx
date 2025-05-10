@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-2xl font-bold mb-4">الأستاذ دباح عبد اللطيف</h3>
+            <h3 className="text-2xl font-bold mb-4">الأستاذ ديهم عبد اللطيف</h3>
             <p className="mb-4">
               منصة تعليمية متخصصة في تدريس الرياضيات بطرق مبتكرة وفعالة.
             </p>
@@ -55,7 +55,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-primary-light mt-8 pt-6 text-center">
-          <p>&copy; {currentYear} جميع الحقوق محفوظة للأستاذ دباح عبد اللطيف</p>
+          <p>&copy; {currentYear} جميع الحقوق محفوظة للأستاذ ديهم عبد اللطيف</p>
         </div>
       </div>
     </footer>
