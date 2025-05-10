@@ -120,7 +120,7 @@ const LessonDetail = ({ lesson }: { lesson: LessonProps }) => {
             <div className="mt-4 bg-gray-50 p-4 rounded-lg">
               <h3 className="font-bold mb-2">عن هذا الفيديو</h3>
               <p className="text-gray-700">
-                في هذا الفيديو يشرح الأستاذ دباح {lesson.title} بطريقة مبسطة ومفهومة، مع أمثلة تطبيقية لترسيخ المعلومات.
+                في هذا الفيديو يشرح الأستاذ ديهم  {lesson.title} بطريقة مبسطة ومفهومة، مع أمثلة تطبيقية لترسيخ المعلومات.
               </p>
             </div>
           </SectionAnimation>
