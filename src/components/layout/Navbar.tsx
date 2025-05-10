@@ -46,7 +46,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           <Link to="/" className="text-primary text-2xl font-bold hover:text-primary-dark transition">
-            الأستاذ دباح
+            الأستاذ ديهم عبد اللطيف
           </Link>
           
           {/* Desktop Navigation */}
