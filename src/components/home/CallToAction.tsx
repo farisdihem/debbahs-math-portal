@@ -11,7 +11,7 @@ const CallToAction = () => {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-6">ابدأ رحلة النجاح في الرياضيات اليوم</h2>
             <p className="text-lg mb-8 opacity-90">
-              انضم إلى آلاف الطلاب الذين استفادوا من خبرة الأستاذ دباح في تعليم الرياضيات وحققوا نتائج متميزة
+              انضم إلى آلاف الطلاب الذين استفادوا من خبرة الأستاذ ديهم عبد اللطيف في تعليم الرياضيات وحققوا نتائج متميزة
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Button asChild size="lg" variant="secondary" className="bg-white text-primary hover:bg-gray-100">
